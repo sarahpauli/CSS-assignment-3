@@ -25,6 +25,9 @@ img {
     display: block; /* keep */
     width: 100%; /* keep */
 }
+p{
+    font-size: 1.25rem;
+}
 
 /* In the grid container below, you will change the columns,
     the rows, and the AREAS to layout the page as instructed
@@ -61,9 +64,6 @@ header {
     grid-area: header; /* keep */
     background: #fff; /* keep */
     text-align: center;
-}
-p{
-    font-size: 1.25rem;
 }
 #arial {
     grid-area: arial; /* keep */
