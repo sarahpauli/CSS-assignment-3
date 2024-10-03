@@ -18,6 +18,7 @@ h1, h2 {
 }
 #tagline {
     font-style: italic;
+    font-size: 1.75rem;
 }
 /* all images will stretch to fill their containing element */
 img {
@@ -150,6 +151,9 @@ a:hover {
         "helvetica helvetica"
         "typeface typeface"
         "footer footer";
+    }
+    header {
+        padding: 1rem;
     }
     header img {
         display: none;
