@@ -62,7 +62,7 @@ header {
     background: #fff; /* keep */
     text-align: center;
 }
-header p{
+p{
     font-size: 1.25rem;
 }
 #arial {
@@ -80,8 +80,8 @@ header p{
     background: #a8e8ff; /* keep */
     padding: 2rem;
     margin: 0;
-    font-size: 1.3rem;
-    line-height: 1.75rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
 }
 #bobwhite-quail {
     grid-area: bobwhite-quail; /* keep */
@@ -92,13 +92,11 @@ header p{
     grid-area: readability; /* keep */
     background: #d2f4ff; /* keep */
     padding: 2rem 2rem 2rem 1rem;
-    font-size: 1.1rem;
 }
 #line-length {
     grid-area: line-length; /* keep */
     background: #d2f4ff; /* keep */
     padding: 2rem 2rem 2rem 1rem;
-    font-size: 1.1rem;
 }
 #helvetica {
     grid-area: helvetica; /* keep */
@@ -111,7 +109,6 @@ header p{
     color: #d2f4ff; /* keep */
     background: #5598b2; /* keep */
     padding: 2rem 1rem 2rem 2rem;
-    font-size: 1.1rem;
     text-shadow: .1em .1em #265466;
 }
 footer {
@@ -159,7 +156,7 @@ a:hover {
         display: none;
     }
     #pairing {
-        padding: 1rem;
+        padding: 2rem 1rem;
     }
     #bobwhite-quail {
         padding: 1rem 1rem 0 1rem;
@@ -168,7 +165,7 @@ a:hover {
         padding: 1rem;
     }
     #line-length {
-        padding: 1rem;
+        padding: 2rem 1rem;
     }
     #helvetica {
         padding: 1rem;
